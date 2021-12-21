@@ -1,4 +1,4 @@
-#🍕✨ Pizzaz
+# 🍕✨ Pizzaz
 ## The AP Comp Sci Principles 100% overkill project
 
 Pizzaz is a project for the create task of AP Comp Sci Principles 1st Semester. You can
