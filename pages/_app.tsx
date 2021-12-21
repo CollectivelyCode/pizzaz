@@ -1,8 +1,13 @@
-import '../styles/globals.css'
-import type { AppProps } from 'next/app'
+import { ChakraProvider } from '@chakra-ui/react'
+import {AppProps} from "next/app";
+import {Chakra} from "../modules/Chakra";
 
-function MyApp({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+function Pizzaz(props: AppProps) {
+  return (
+      <Chakra {...props}>
+        <props.Component {...props.pageProps} />
+      </Chakra>
+  )
 }
 
-export default MyApp
+export default Pizzaz
