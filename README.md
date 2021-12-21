@@ -12,7 +12,7 @@ yarn install
 yarn build && yarn start
 ```
 
-##The fancy toys we used
+## The fancy toys we used
 - [Next JS](https://nextjs.org/) - Framework
 - [React](https://react.org) - Framework or UI more fitting?
 - [Chakra UI (No Melissa, not the metaphysical, the UI libray)](https://chakra-ui.com) - UI
