@@ -2,8 +2,7 @@
 ## The AP Comp Sci Principles 100% overkill project
 
 Pizzaz is a project for the create task of AP Comp Sci Principles 1st Semester. You can
-order pizza and much more. (eg: cookies, drinks, pasta). Also, if you are an employee 
-
+order pizza. I guess...?
 
 ## Running
 *We run on 🧶 not NPM, be weary of that please.*
